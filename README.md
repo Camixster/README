@@ -1,4 +1,3 @@
-# README
 <h2 align="left">Acerca de mí</h2>
 
 ###
